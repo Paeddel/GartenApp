@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Paeddel/GartenApp/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Paeddel/GartenApp/static/js/main.4031cea7.chunk.js",
+    "main.js.map": "/Paeddel/GartenApp/static/js/main.4031cea7.chunk.js.map",
+    "runtime-main.js": "/Paeddel/GartenApp/static/js/runtime-main.6b52b70c.js",
+    "runtime-main.js.map": "/Paeddel/GartenApp/static/js/runtime-main.6b52b70c.js.map",
+    "static/css/2.89f067aa.chunk.css": "/Paeddel/GartenApp/static/css/2.89f067aa.chunk.css",
+    "static/js/2.5ae3bdd0.chunk.js": "/Paeddel/GartenApp/static/js/2.5ae3bdd0.chunk.js",
+    "static/js/2.5ae3bdd0.chunk.js.map": "/Paeddel/GartenApp/static/js/2.5ae3bdd0.chunk.js.map",
+    "index.html": "/Paeddel/GartenApp/index.html",
+    "precache-manifest.00799237e8bfb9a259d7d1d1970ffaed.js": "/Paeddel/GartenApp/precache-manifest.00799237e8bfb9a259d7d1d1970ffaed.js",
+    "service-worker.js": "/Paeddel/GartenApp/service-worker.js",
+    "static/css/2.89f067aa.chunk.css.map": "/Paeddel/GartenApp/static/css/2.89f067aa.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/Paeddel/GartenApp/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.5ae3bdd0.chunk.js.LICENSE": "/Paeddel/GartenApp/static/js/2.5ae3bdd0.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b52b70c.js",
+    "static/css/2.89f067aa.chunk.css",
+    "static/js/2.5ae3bdd0.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.4031cea7.chunk.js"
+  ]
+}
